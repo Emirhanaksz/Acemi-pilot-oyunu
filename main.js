@@ -185,7 +185,7 @@ function handlegiris() {
         menu = 0;
         animate();
     } else if (menu == 4) {
-        window.location = "https://github.com/Emirhanaksz/Emirhanaksz";
+        window.location = "https://github.com/Emirhanaksz/Acemi-pilot-oyunu";
     } else {
         ctx.clearRect(0, 0, canvas.width, canvas.height);
         drawbg();
