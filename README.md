@@ -1,6 +1,6 @@
 # 🛩 Acemi-pilot-oyunu
 # 🔎 HAKKINDA
-Bu proje; HTML, CSS ve JavaScript teknolojileri kullanılarak Web Tabanlı Programlama dersi ödevi için hazırlanmış bir 2D oyundur. Oyunu oynamak için bu adrese gidebilirsiniz iyi eğlenceler.
+Bu proje; HTML, CSS ve JavaScript teknolojileri kullanılarak Web Tabanlı Programlama dersi ödevi için hazırlanmış bir 2D oyundur. 
 # 📋 Oyunun Senaryosu
 İlk görevine çıkan acemi pilot Emir karşıdan gelen engellere karşı senden yardım etmeni isteyecek. Kahramanıımz Emir'e engellerden kaçarken yardım et :)  
 # 💥 Teknolojiler
@@ -10,7 +10,7 @@ Bu proje; HTML, CSS ve JavaScript teknolojileri kullanılarak Web Tabanlı Progr
  # ⚠️ Nasıl oynanır
  Oyunumuzda kontroller  ⬅️ ve ➡️ yön tuşlarıyla sağlanmaktadır. ⬅️ yön tuşuna bastığınızda uçağımız sola hareket edecek, ➡️ yön tuşuna bastığımızda uçağımız sağa hareket edecek.
  
- ☢️ Oyunu oynamaya başlamak için ➜ WWW.blabla.com
+ ☢️ Oyunu oynamaya başlamak için ➜ [🛩](http://acemipilot.6te.net/)
  
  
  # ✏️ Tasarımlar
