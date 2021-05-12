@@ -10,6 +10,8 @@ Bu proje; HTML, CSS ve JavaScript teknolojileri kullanılarak Web Tabanlı Progr
  # ⚠️ Nasıl oynanır
  Oyunumuzda kontroller  ⬅️ ve ➡️ yön tuşlarıyla sağlanmaktadır. ⬅️ yön tuşuna bastığınızda uçağımız sola hareket edecek, ➡️ yön tuşuna bastığımızda uçağımız sağa hareket edecek.
  
+ 🎮 Oynanış videosu ➜ [`tıklayın`](https://youtu.be/u4MUuQAu3iY)
+ 
  ☢️ Oyunu oynamaya başlamak için ➜ [`tıklayın`](http://acemipilot.6te.net/)
  
  
